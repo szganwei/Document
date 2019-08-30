@@ -10,6 +10,8 @@
 
 官方文档仓库地址：[https://github.com/szganwei/Document](https://github.com/szganwei/Document)
 
+在更新敢为官方文档的同时，希望各位同事能够学会使用 GitHub ，以后公司项目会优先使用 GitHub 托管。
+
 **修改步骤：**
 
 ##### ① Frok
